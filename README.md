@@ -1,6 +1,6 @@
 # learn-vuex
 
-> A Vue.js project
+> vuex的demo
 
 ## Build Setup
 
